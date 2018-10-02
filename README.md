@@ -33,9 +33,11 @@ This is an example that demonstrates storage of image files on [Claudinary](http
 
     `cd cloudinary_app`
     
-3. Create a virtual environment
+3. Create a virtual environment and activate it
 
     `python3 -m venv venv`
+        
+    `source source venv/bin/activate`
     
 4. Install required packages
 
