@@ -37,7 +37,7 @@ This is an example that demonstrates storage of image files on [Claudinary](http
 
     `python3 -m venv venv`
         
-    `source source venv/bin/activate`
+    `source venv/bin/activate`
     
 4. Install required packages
 
